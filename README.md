@@ -1,2 +1,2 @@
 # financeiro_eap
-Aplicativo de controle financeiro pessoa
+Aplicativo de controle financeiro pessoal
